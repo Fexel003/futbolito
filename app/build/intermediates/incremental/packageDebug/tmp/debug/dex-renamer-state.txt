@@ -1,0 +1,4 @@
+#Thu Jun 03 18:29:08 CDT 2021
+base.0=E\:\\Escuela\\Doceavo\\Movil 2\\Unidad 4\\4.2 Sensores Futbolito Pocket\\Futbolillo\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
